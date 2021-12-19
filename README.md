@@ -1,4 +1,4 @@
-# what_a_bird
+# What a Bird! : Bird Species Classifier
 
 Welcome to What a Bird!
 
