@@ -81,8 +81,10 @@ yolov4/core/utils.py
 
 Other than that, the rest of the code has been modified appropriately so that the actual model can work.
 
-## Additional
+## Appendix
 
-Test dataset - 325-bird-species
+Test dataset - kaggle 325-bird-species
 
-Pretrained model - saved_model
+Yolov4 - MiT_tensorflow-yolov4-tflite
+
+OOD Detection - A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks
