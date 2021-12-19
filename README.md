@@ -81,5 +81,8 @@ yolov4/core/utils.py
 
 Other than that, the rest of the code has been modified appropriately so that the actual model can work.
 
+## Additional
+
 Test dataset - 325-bird-species
+
 Pretrained model - saved_model
