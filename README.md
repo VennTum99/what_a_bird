@@ -23,9 +23,9 @@ And you can run each notebook separately.
 
 **However, before running the notebook, please correct the path of the cd in the notebook so that it works properly. Instructions for using each notebook exist within the notebook.**
 
-Each notebook can:
+Discription about Notebooks
 
-1. what_a_bird
+##1. what_a_bird
 
 It is a notebook running what_a_bird that we have completed.
 
@@ -43,11 +43,11 @@ In the case of the !python model_accuracy_test.py code located at the end, it is
 
 Image classification can be performed without object detection. Put the image to be classified in './yolov4/bird_data/detect_image/bird/'. Then run ensembled_model.py and the result will be saved in result_image folder.
 
-1 - data_checker
+##2. data_checker
 
 This is the code to check the structure of the data in the kaggle dataset. Augmented data and image / classes chart can be checked.
 
-2 - model_train
+##3. model_train
 
 It is a notebook that stores the trained model in '/saved_model' by learning vit and efficientNet.
 
@@ -55,7 +55,7 @@ Various parameters can be modified by modifying the corresponding python code fo
 
 The saved model has '_temp' appended to the end so that the existing pretrained model is not overwritten. If you want to use a model that you have created yourself, edit the name as described in the notebook and use it.
 
-#Python Codes
+##Python Codes
 
 Here's the important code I wrote and modified:
 
