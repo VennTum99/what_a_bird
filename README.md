@@ -57,7 +57,7 @@ The saved model has '_temp' appended to the end so that the existing pretrained 
 
 ## Python Codes
 
-Here's the important code I wrote and modified:
+Here's the important code I wrote and modified.
 
 requirements.txt
 vit_train.py
