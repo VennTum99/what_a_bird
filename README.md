@@ -60,15 +60,23 @@ The saved model has '_temp' appended to the end so that the existing pretrained 
 Here's the important code I wrote and modified.
 
 requirements.txt
+
 vit_train.py
+
 effnet_train.py
+
 ensembled_model.py
+
 model_accuracy_test.py
+
 data_checker.ipynb
+
 model_train.ipynb
+
 what_a_bird.ipynb
 
 yolov4/detect.py
+
 yolov4/core/utils.py
 
 Other than that, the rest of the code has been modified appropriately so that the actual model can work.
