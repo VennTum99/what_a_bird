@@ -1,0 +1,15 @@
+opencv-python
+lxml
+tqdm
+tensorflow
+tensorflow-gpu
+absl-py
+easydict
+matplotlib
+pillow
+keras
+numpy
+tensorflow.addons
+vit_keras
+scikit-learn
+scikit-image
